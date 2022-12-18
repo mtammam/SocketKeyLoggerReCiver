@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{60DBB6BE-CADF-46D2-AE1E-BA19DED7DC06}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ConsoleApp1</RootNamespace>
-    <AssemblyName>ConsoleApp1</AssemblyName>
+    <RootNamespace>SocketKeyLogerReciver</RootNamespace>
+    <AssemblyName>SocketKeyLogerReciver</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

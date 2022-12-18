@@ -1,0 +1,12 @@
+C:\Users\mohamed.tammam\OneDrive - msmedaeg\Desktop\assignment\clientserversocketscsharp\clientserversocketscsharp\ConsoleApp1\bin\Debug\SocketKeyLogerReciver.exe.config
+C:\Users\mohamed.tammam\OneDrive - msmedaeg\Desktop\assignment\clientserversocketscsharp\clientserversocketscsharp\ConsoleApp1\bin\Debug\SocketKeyLogerReciver.exe.manifest
+C:\Users\mohamed.tammam\OneDrive - msmedaeg\Desktop\assignment\clientserversocketscsharp\clientserversocketscsharp\ConsoleApp1\bin\Debug\SocketKeyLogerReciver.application
+C:\Users\mohamed.tammam\OneDrive - msmedaeg\Desktop\assignment\clientserversocketscsharp\clientserversocketscsharp\ConsoleApp1\bin\Debug\SocketKeyLogerReciver.exe
+C:\Users\mohamed.tammam\OneDrive - msmedaeg\Desktop\assignment\clientserversocketscsharp\clientserversocketscsharp\ConsoleApp1\bin\Debug\SocketKeyLogerReciver.pdb
+C:\Users\mohamed.tammam\OneDrive - msmedaeg\Desktop\assignment\clientserversocketscsharp\clientserversocketscsharp\ConsoleApp1\obj\Debug\SocketKeyLogerReciver.csproj.AssemblyReference.cache
+C:\Users\mohamed.tammam\OneDrive - msmedaeg\Desktop\assignment\clientserversocketscsharp\clientserversocketscsharp\ConsoleApp1\obj\Debug\SocketKeyLogerReciver.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohamed.tammam\OneDrive - msmedaeg\Desktop\assignment\clientserversocketscsharp\clientserversocketscsharp\ConsoleApp1\obj\Debug\SocketKeyLogerReciver.csproj.CoreCompileInputs.cache
+C:\Users\mohamed.tammam\OneDrive - msmedaeg\Desktop\assignment\clientserversocketscsharp\clientserversocketscsharp\ConsoleApp1\obj\Debug\SocketKeyLogerReciver.exe.manifest
+C:\Users\mohamed.tammam\OneDrive - msmedaeg\Desktop\assignment\clientserversocketscsharp\clientserversocketscsharp\ConsoleApp1\obj\Debug\SocketKeyLogerReciver.application
+C:\Users\mohamed.tammam\OneDrive - msmedaeg\Desktop\assignment\clientserversocketscsharp\clientserversocketscsharp\ConsoleApp1\obj\Debug\SocketKeyLogerReciver.exe
+C:\Users\mohamed.tammam\OneDrive - msmedaeg\Desktop\assignment\clientserversocketscsharp\clientserversocketscsharp\ConsoleApp1\obj\Debug\SocketKeyLogerReciver.pdb

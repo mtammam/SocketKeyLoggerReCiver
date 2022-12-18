@@ -10,7 +10,7 @@ using System.IO;
 using System.Threading.Tasks;
 using System.Security.Cryptography;
 
-namespace ConsoleApp1
+namespace SocketKeyLogerReciver
 
 {
     class Program
