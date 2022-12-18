@@ -1,0 +1,35 @@
+C:\Users\Administrator\Desktop\sockets2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Administrator\Desktop\sockets2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Administrator\Desktop\sockets2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Administrator\Desktop\sockets2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Administrator\Desktop\sockets2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Administrator\Desktop\sockets2\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\sockets3\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Administrator\Desktop\sockets3\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Administrator\Desktop\sockets3\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Administrator\Desktop\sockets3\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Administrator\Desktop\sockets3\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\mohamed.tammam\Desktop\clientserversocketscsharp\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\mohamed.tammam\Desktop\clientserversocketscsharp\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\mohamed.tammam\Desktop\clientserversocketscsharp\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\mohamed.tammam\Desktop\clientserversocketscsharp\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\mohamed.tammam\Desktop\clientserversocketscsharp\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohamed.tammam\Desktop\clientserversocketscsharp\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\mohamed.tammam\Desktop\clientserversocketscsharp\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\mohamed.tammam\Desktop\clientserversocketscsharp\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\mohamed.tammam\Desktop\clientserversocketscsharp\ConsoleApp1\bin\Debug\ConsoleApp1.exe.manifest
+C:\Users\mohamed.tammam\Desktop\clientserversocketscsharp\ConsoleApp1\bin\Debug\ConsoleApp1.application
+C:\Users\mohamed.tammam\Desktop\clientserversocketscsharp\ConsoleApp1\obj\Debug\ConsoleApp1.exe.manifest
+C:\Users\mohamed.tammam\Desktop\clientserversocketscsharp\ConsoleApp1\obj\Debug\ConsoleApp1.application
+C:\Users\mohamed.tammam\OneDrive - msmedaeg\Desktop\assignment\clientserversocketscsharp\clientserversocketscsharp\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\mohamed.tammam\OneDrive - msmedaeg\Desktop\assignment\clientserversocketscsharp\clientserversocketscsharp\ConsoleApp1\bin\Debug\ConsoleApp1.exe.manifest
+C:\Users\mohamed.tammam\OneDrive - msmedaeg\Desktop\assignment\clientserversocketscsharp\clientserversocketscsharp\ConsoleApp1\bin\Debug\ConsoleApp1.application
+C:\Users\mohamed.tammam\OneDrive - msmedaeg\Desktop\assignment\clientserversocketscsharp\clientserversocketscsharp\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\mohamed.tammam\OneDrive - msmedaeg\Desktop\assignment\clientserversocketscsharp\clientserversocketscsharp\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\mohamed.tammam\OneDrive - msmedaeg\Desktop\assignment\clientserversocketscsharp\clientserversocketscsharp\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\mohamed.tammam\OneDrive - msmedaeg\Desktop\assignment\clientserversocketscsharp\clientserversocketscsharp\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohamed.tammam\OneDrive - msmedaeg\Desktop\assignment\clientserversocketscsharp\clientserversocketscsharp\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\mohamed.tammam\OneDrive - msmedaeg\Desktop\assignment\clientserversocketscsharp\clientserversocketscsharp\ConsoleApp1\obj\Debug\ConsoleApp1.exe.manifest
+C:\Users\mohamed.tammam\OneDrive - msmedaeg\Desktop\assignment\clientserversocketscsharp\clientserversocketscsharp\ConsoleApp1\obj\Debug\ConsoleApp1.application
+C:\Users\mohamed.tammam\OneDrive - msmedaeg\Desktop\assignment\clientserversocketscsharp\clientserversocketscsharp\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\mohamed.tammam\OneDrive - msmedaeg\Desktop\assignment\clientserversocketscsharp\clientserversocketscsharp\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
